@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/trace_session_split/__init__.py
+src/trace_session_split/__main__.py
+src/trace_session_split/core.py
+src/trace_session_split/py.typed
+src/trace_session_split.egg-info/PKG-INFO
+src/trace_session_split.egg-info/SOURCES.txt
+src/trace_session_split.egg-info/dependency_links.txt
+src/trace_session_split.egg-info/entry_points.txt
+src/trace_session_split.egg-info/requires.txt
+src/trace_session_split.egg-info/top_level.txt
+tests/test_split.py

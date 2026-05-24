@@ -1,0 +1,2 @@
+[console_scripts]
+trace-session-split = trace_session_split.__main__:main
